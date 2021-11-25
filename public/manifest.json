@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Shopping manager",
+  "icons": [
+    {
+      "src": "main-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "qr-code.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
