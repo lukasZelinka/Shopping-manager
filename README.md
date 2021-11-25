@@ -1,6 +1,5 @@
-#### Shopping manager React application
-
-A simple React application to generate & scan Quick Response code (QR code).
+## Shopping manager
+##### React app
 
 - **QR Scanner: [react-qr-reader](https://www.npmjs.com/package/react-qr-reader)**
 
