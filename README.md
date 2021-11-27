@@ -2,9 +2,9 @@
 
 ### React app
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-&nbsp;
 Application is in further development.
+&nbsp;
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 #### What is it ?
 
