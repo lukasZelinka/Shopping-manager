@@ -2,9 +2,7 @@
 
 ### React app
 
-Application is in further development.
-
-&nbsp;
+Application is in further development.&nbsp;&nbsp;&nbsp;
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
