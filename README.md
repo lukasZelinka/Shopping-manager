@@ -4,6 +4,7 @@
 
 &nbsp;
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+&nbsp;
 Application is in further development.
 
 #### What is it ?
