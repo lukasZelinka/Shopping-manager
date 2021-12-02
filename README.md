@@ -4,8 +4,6 @@
 
 Application is in further development.&nbsp;&nbsp;&nbsp;
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 #### What is it ?
 
 Shopping manager is React app, that serves to save receipts from the store in electronic form.
