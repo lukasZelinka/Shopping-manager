@@ -38,14 +38,14 @@ p {
 }
 .alert-success {
   color: #2a2a2a;
-  background: #33daff;
+  background-color: #80e8ff;
 }
 /* button */
 .button-71 {
-  background-color: #00d0ff;
+  background-color: #00758f;
+  color: #f8f8fb;
   border: 0;
   border-radius: 56px;
-  color: #212529;
   cursor: pointer;
   display: inline-block;
   font-family: system-ui, -apple-system, system-ui, "Segoe UI", Roboto, Ubuntu,
@@ -173,8 +173,8 @@ p {
 }
 .button-second {
   margin-top: 0.5em;
-  background-color: #33daff;
-  color: #2a2a2a;
+  background-color: #00758f;
+  color: #f8f8fb;
   font-weight: bold;
   margin-right: 1em;
 }
